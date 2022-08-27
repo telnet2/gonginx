@@ -1,7 +1,7 @@
 <p align="center"><img src="./gopher.png" width="360"></p>
 <p align="center">
-<a href="https://goreportcard.com/badge/github.com/tufanbarisyildirim/gonginx"><img src="https://goreportcard.com/badge/github.com/tufanbarisyildirim/gonginx" alt="Report Card" /></a>
-<a href="https://github.com/tufanbarisyildirim/gonging/actions"><img src="https://github.com/tufanbarisyildirim/gonginx/workflows/Go/badge.svg" alt="Actions Status" /></a>
+<a href="https://goreportcard.com/badge/github.com/telnet2/gonginx"><img src="https://goreportcard.com/badge/github.com/telnet2/gonginx" alt="Report Card" /></a>
+<a href="https://github.com/tufanbarisyildirim/gonging/actions"><img src="https://github.com/telnet2/gonginx/workflows/Go/badge.svg" alt="Actions Status" /></a>
 </p>
 
 # Gonginx

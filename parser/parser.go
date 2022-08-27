@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/tufanbarisyildirim/gonginx"
-	"github.com/tufanbarisyildirim/gonginx/parser/token"
+	"github.com/telnet2/gonginx"
+	"github.com/telnet2/gonginx/parser/token"
 )
 
 type Option func(*Parser)

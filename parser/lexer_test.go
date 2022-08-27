@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/tufanbarisyildirim/gonginx/parser/token"
+	"github.com/telnet2/gonginx/parser/token"
 	"gotest.tools/v3/assert"
 )
 
